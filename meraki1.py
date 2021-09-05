@@ -1,0 +1,5 @@
+f=open("exercise.txt")
+b=f.read()
+# a=("exercise.txt","r")
+print(b)
+f.close()
